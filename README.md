@@ -3,7 +3,7 @@
 
 libinjection
 ============
-
+SQL注入检测工具 
 SQL / SQLI tokenizer parser analyzer. For
 
 * C and C++
